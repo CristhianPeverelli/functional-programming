@@ -1,5 +1,4 @@
 # F# dump
-##Description 
 This repository contains F# files that I have written while learning and practicing the F# programming language. F# is a powerful functional programming language that offers concise and expressive syntax, strong typing, and excellent support for parallel and asynchronous programming. It is an open-source language that runs on the .NET platform and is known for its ability to combine the benefits of functional programming with the object-oriented programming paradigm.
 
 ## Why this rep
