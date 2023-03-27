@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qcrWby0gur9ZPAIPpgk7ZcYo4xKCyxzWgKPetNxCFoK0pK3+6gWN+isUwit9hfjdF3Sfx7lePITij2KZjZgX1g==",
+  "dgSpecHash": "s5N/ma4VdTnuC1uxuoJi6RatW/agoc6Ldkt3ys9fIGKj//9yXpqHt8cnOezCeVdmsjJS+e5WSv9MRZGIFH0jiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
+  "projectFilePath": "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
   "expectedPackageFiles": [
     "C:\\Users\\francesco\\.nuget\\packages\\fsharp.core\\7.0.200\\fsharp.core.7.0.200.nupkg.sha512"
   ],

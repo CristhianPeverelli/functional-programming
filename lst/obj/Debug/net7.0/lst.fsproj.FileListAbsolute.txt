@@ -11,3 +11,7 @@ C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.dll
 C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\ref\lst.dll
 C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.pdb
 C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.xml
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\bin\Debug\net7.0\lst.deps.json
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\bin\Debug\net7.0\lst.dll
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\bin\Debug\net7.0\lst.pdb
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\bin\Debug\net7.0\lst.xml

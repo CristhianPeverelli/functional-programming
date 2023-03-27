@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj": {}
+    "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj": {}
   },
   "projects": {
-    "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj": {
+    "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
+        "projectUniqueName": "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
         "projectName": "lst",
-        "projectPath": "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
+        "projectPath": "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\lst.fsproj",
         "packagesPath": "C:\\Users\\francesco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\obj\\",
+        "outputPath": "c:\\Users\\francesco\\Desktop\\Workspace\\functional-programming\\lst\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\francesco\\AppData\\Roaming\\NuGet\\NuGet.Config"
