@@ -1,0 +1,13 @@
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.AssemblyInfoInputs.cache
+c:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.AssemblyInfo.fs
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.fsproj.AssemblyReference.cache
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.fsproj.CoreCompileInputs.cache
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.dll
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\refint\lst.dll
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.xml
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\lst.pdb
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.deps.json
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.dll
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\obj\Debug\net7.0\ref\lst.dll
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.pdb
+C:\Users\francesco\Desktop\Workspace\functional-programming\lst\lst.xml
